@@ -1,0 +1,521 @@
+git commit -m "added p2.main"
+git push
+git status
+git add -A
+git commit -m "string compiling but failing"
+git push
+git add -A
+git commit -m "s_demo_1 updated"
+git push
+make s_demo_1
+./a.out
+./a.out
+./a.out
+gdb ./a.out
+gdb ./a.out
+./a.out
+make s_demo_1
+./a.out
+gdb ./a.out
+make s_demo_q
+make s_demo_1
+./a.out
+make s_demo_1
+make s_demo_1
+./a.out
+gdb ./a.out
+make s_demo_1
+./a.out
+gdb ./a.out
+git status
+git add -A
+git commit -m "found bug"
+git push
+rm ./a.out
+make s_demo_1
+./a.out
+make my_s_demo_1
+make s_demo_1
+./a.out
+git status
+git add -A
+git commit -m "testing string on caen"
+git push
+make my_s_demo_1
+./a.out
+make my_s_demo_1
+./a.out
+make s_demo_1
+./a.out
+make s_demo_1
+./a.out
+./a.out > myout.txt
+./a.out < short a_medium_length_string_this_is how_about_a_very_long_string_said_Holmes_as_he_filled_his_pipe_and_eyed_his_violin > myout.txt
+./a.out < one > myout.txt
+./a.out < "one"  > myout.txt
+./a.out << short a_medium_length_string_this_is how_about_a_very_long_string_said_Holmes_as_he_filled_his_pipe_and_eyed_his_violin > myout.txt
+./a.out << short a_medium_length_string_this_is how_about_a_very_long_string_said_Holmes_as_he_filled_his_pipe_and_eyed_his_violin  > myout.txt
+./a.out << str 1
+./a.out
+./a.out < hi
+touch myin.txt
+vim myin.txt
+./a.out < myin.txt > myout.txt
+cat myout.txt
+make s_demo_1
+./a.out < myin.txt > myout.txt
+cat myout.txt
+diff out.txt myout.txt
+diff out.txt myout.txt
+make s_demo_1
+./a.out < myin.txt > myout.txt
+diff out.txt myout.txt
+make s_demo_2
+./a.out
+make s_demo_1
+./a.out
+make s_demo_3
+make s_demo_3
+./a.out
+make s_demo_3
+./a.out
+git status
+git add -A
+git commit -m "debugging string. food break before class now"
+git push
+make s_demo_3
+./a.out
+gdb ./a.out
+make s_demo_2
+./a.out
+make s_demo_1
+./a.out
+make s_demo_3
+./a.out > myout.txt
+diff out.txt myout.txt
+diff out.txt myout.txt
+diff out.txt myout.txt
+make s_demo_3
+./a.out > myout.txt
+diff out.txt myout.txt
+diff out.txt myout.txt
+diff out.txt myout.txt
+make s_demo_4
+./a.out
+./a.out > myout.txt
+diff out.txt myout.txt
+git status
+git add -A
+git commit -m "fixed string, move ops were iffy"
+git push
+git status
+git add -A
+git commit
+git push
+git commit
+git commit -m "finished string, now finishing OL"
+git push
+git status
+git add -A
+git commit -m "starting OL destructor"
+git push
+git status
+git add -A
+git commit -m "too tired to finish erase rn"
+git push
+git status
+git add -A
+git commit -m "can't deal with template bullshit for OL"
+git push
+ls
+git status
+git add -A
+git commit -m "finished record and OL, working on Collection, have to test still though"
+git push
+git status
+make ol_demo_1
+make ol_demo_1
+./a.out
+gdb ./a.out
+make ol_demo_1
+./a.out
+make ol_demo_1
+./a.out
+make ol_demo_1
+./a.out
+make ol_demo_1
+./a.out
+make ol_demo_1
+./a.out
+git status
+git add -A
+git commit -m "OL works, but has horrendously duplicated code in inserts and push backs and such lol"
+git push
+ls
+make
+make
+make
+ls
+cat p2_main.cpp
+vim p2_main.cpp
+make
+./p2exe
+rm p2exe
+ls
+git status
+make s_demo_1
+./a.out
+make s_demo_2
+./a.out
+l
+s
+ls
+make s_demo_3
+./a.out
+make s_demomake s
+make s_demo_4
+./a/.out
+./a.out
+make ol_demo_1
+./a.out
+./a.out
+3
+rm a.out
+ls
+git status
+git add -A
+git commit -m "feeling decent, trying it out on autograder rn"
+git push
+make ol_demo_2
+./a.out
+make ol_demo_2
+./a.out
+make ol_demo_2
+./a.out
+./a.out > myout.txt
+diff myout.txt out.txt
+make ol_demo_3
+./a.out
+./a.out > myout.txt
+diff myout.txt out.txt
+git sattu
+git status
+git add -A
+git commit -m "starting main now. still not sure OL exceptions work as expected, and need to add Record and Collection restore checking"
+git push
+git status
+make
+./p2exe
+make ol_demo_3
+./a.out
+./a.out > myout.txt
+diff myout.txt out.txt
+make ol_demo_2
+./a.out
+./a.out > myout.txt
+diff myout.txt out.txt
+make ol_demo_3
+./a.out > myout.txt
+diff myout.txt out.txt
+git status
+make real_clean
+ls
+git status
+git add -A
+git commit -m "ready to use last submit of the day for all minus main"
+git push
+git status
+git add -A
+git commit -m "working on main, too tired to avoid duplicate code rn"
+git push
+git status
+git add -A
+git commit -m "found bug in collection is member. About to start delete for main"
+git push
+git status
+git add -A
+git commit -m "refactored code, and finished delete record"
+git push
+git status
+git add -A
+git commit -m "delete collection added. Might be some bugs in add member"
+git push
+git stats
+git status
+git add -A
+git commit -m "submitting"
+git push
+make
+./p2exe 
+git status
+git status
+make
+./p2exe 
+make real_clean
+git status
+git add -A
+git commit -m "took care of segfault
+"
+git push
+git status
+git add -A
+git commit -m "now segfault cleared in delete"
+git push
+make
+./p2exe 
+git status
+make real_clean
+git status
+git add -A
+git commit -m "submit"
+git push
+git status
+git add -A
+git commit -m "have save and restore left. May or may not be a problem in collection and/or record"
+git push
+make
+./p2exe 
+touch myin.txt
+open myin.txt
+./p2exe < myint.txt > myout.txt
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+git status
+git status
+make
+./p2exe < myint.txt > myout.txt
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+git status
+make real_clean
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+./p2exe < myin.txt > myout.txt
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+diff savefile1.txt diff orig_savefile1.txt 
+diff savefile1.txt orig_savefile1.txt 
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+./p2exe < myin.txt > myout.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+make
+ls
+make
+make real_clean
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+./p2exe > myout.txt
+diff myout.txt out.txt
+make
+./p2exe > myout.txt
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+gdb ./p2exe < myin.txt > myout.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+make real_clean
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make
+./p2exe < myin.txt > myout.txt
+diff myout.txt out.txt
+make real_clean
+git status
+git add -A
+git commit -m "happy to submit"
+git push
+make
+./p2exe < errors_in.txt > e.txt
+./p2exe < normal_in.txt n.txt
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt 
+./p2exe < typeahead_in.txt > t.txt
+diff e.txt errors_out.txt 
+diff t.txt typeahead_out.txt 
+diff n.txt normal_out.txt 
+git status
+git add -A
+make real_clean
+git status
+git add -A
+git commit -m "testing"
+git push
+make ol_demo_1
+make ol_demo_1
+make ol_demo_1
+./a.out
+git checkout 8c4d2e94b4b252e1db143368e91835c53a6fdafc Ordered_list.h
+ls
+make
+make ol_demo_1
+./a.out
+make
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt 
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt 
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt 
+diff e.txt errors_out.txt 
+git statug
+git statug
+git status
+make real_clean
+git add -A
+git commit -m "giving up on unduplicating OL
+"
+git push
+make
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt 
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt 
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt 
+diff e.txt errors_out.txt 
+diff orig_savefile1.txt savefile1.txt 
+make
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt
+diff e.txt errors_out.txt
+diff orig_savefile1.txt savefile1.txt
+make
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt
+diff e.txt errors_out.txt
+diff orig_savefile1.txt savefile1.txt
+make
+clear_Library_helper(Library_ID, Library_title, Catalog, g_ID_counter);
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt
+diff e.txt errors_out.txt
+diff orig_savefile1.txt savefile1.txt
+make
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt
+diff e.txt errors_out.txt
+diff orig_savefile1.txt savefile1.txt
+make
+./p2exe < normal_in.txt > n.txt
+./p2exe < typeahead_in.txt > t.txt
+./p2exe < errors_in.txt > e.txt
+diff normal_out.txt n.txt
+diff t.txt typeahead_out.txt
+diff e.txt errors_out.txt
+diff orig_savefile1.txt savefile1.txt
+make real_clean
+git status
+git add -A
+git commit -m "fixed restore"
+git push
+ssh moeahmad@login.engin.umich.edu
+ssh moeahmad@login.engin.umich.edu
+ssh moeahmad@login.engin.umich.edu
+git pull
+git pull
+ssh moeahmad@login.engin.umich.edu
+ls
+cd Desktop/testStuff/
+ls
+open test.cpp
+g++ test.cpp
+./a.out
+./a.out
+g++ test.cpp
+./a.out
+g++ test.cpp
+./a.out
+g++ test.cpp
+./a.out
+./a.out
+./a.out
+./a.out
+g++ test.cpp
+./a.out
+./a.out
+g++ test.cpp
+./a.out

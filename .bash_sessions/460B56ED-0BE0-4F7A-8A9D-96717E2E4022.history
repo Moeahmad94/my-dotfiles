@@ -1,0 +1,504 @@
+git push
+git status
+git pull
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+git status
+git add -A
+git add -A
+git commit -m "trying to figure out why redirect won't work in session timeout. Can't get back to login page"
+git push
+git pull
+git push
+git pull
+git status
+git add -A
+git commit -m 'trying to figure out how to redirect to login page from timeout check"
+git push
+"
+git push
+;
+'
+git push
+git status
+git pull
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+git status
+git checkout static*
+git status
+git add -A
+git commit -m "album edit page now allows revoke and adding of permissions for private albums"
+git push
+git pull
+git status
+git status
+python start.py
+python start.py
+git status
+git add -A
+git commit -m "merged"
+git push
+git status
+git pull
+pip -r install requirements.txt 
+pip install -r requirements.txt 
+ls
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+python start.py 
+ls
+cd ..
+ls
+cd proj1/
+ls
+git pull
+ls
+cd admin/
+ls
+git pull
+ls
+cd ..
+ls
+cd ..
+ls
+cd pa2_70czol/
+ls
+open .gitignore
+ls
+matlab
+Matlab
+/Users/mohammadahmad/Downloads/matlab_R2015b_maci64/install ; exit;
+matlab
+Matlab
+ls
+cd ..
+ls
+cd ..
+ls
+cd 485
+ls
+cd proj1
+ls
+cd admin/
+ls
+git pull
+python start.py
+source venv/bin/activate
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+ls
+pwd
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+ls
+cd ..
+deactivate 
+python start.py
+ls
+cd pa4_70czol/
+ls
+cd pa4_70czol/
+python start.py
+source venv/bin/activate
+ls
+python start.py
+python start.py
+python start.py
+git pull
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+python start.py
+ls
+deactivate 
+ls
+cd ../..
+ls
+cd 485
+ls
+cd proj1
+ls
+cd admin/
+ls
+git pull
+git statsh
+git stash
+git pull
+ls
+cd ..
+ls
+cd ..
+ls
+git clone git@github.com:EECS485-Fall2015/admin.git
+cd ..
+ls
+cd 485
+ls
+cd pa5_70czol/
+ls
+git status
+git add -A
+git commit -m "added files from admin"
+git push
+python start.py
+ls
+ls
+ls
+cd ..
+source venv/bin/activate
+cd sql/
+ls
+mysql -u group64 -p
+ls
+pwd
+cd ..
+ls
+deactivate 
+ls
+cd ..ls
+cd ..
+ls
+cd pa3_70czol/
+ls
+source venv/bin/activate
+ls
+cd sql;
+ls
+mysql -u group64 -p
+ls
+cd ../..
+ls
+cd pa4_70czol/
+ls
+deactivate 
+ls
+cd ..
+ls
+cd pa5_70czol/
+ls
+cd ..
+ls
+cd pa4_70czol/
+ls
+open .gitignore
+cd ..
+ls
+cd pa5_70czol/
+ls
+touch .gitignore
+open .gitignore
+ls
+git status
+git add -A
+git commit -m "gitignore added"
+git push
+virtualenv venv
+ls
+git status
+open .gitignore
+git pull
+git status
+git add -A
+git commit -m "started pseudocoding readINput for hits"
+git push
+git pull
+ls
+cd ..
+ls
+cd pa5_70czol/
+ls
+cd hits
+ls
+make
+git pull
+make
+g++ hits.cpp
+g++ hits.net
+make
+make
+make
+make
+make
+make
+make
+make
+git pull
+git status
+git add -A
+git commit -m "hits"
+git pull
+make
+make
+make
+make
+git status
+git add -A
+git commit -m "hits read input"
+git push
+make
+make
+git status
+git add -A
+git commit -m "fixed by re-adding implementation for first and seconds words/strings"
+git push
+git pull
+git pull
+git pull
+pip install -r requirements.txt
+source venv/bin/activate
+git status
+git add -A
+git commit -m "framework for ember stuff down, need to customize and modify and tweek a bit"
+git push
+git status
+git add -A
+git commit -m "modified api.py and app.js according to spec update"
+git push
+ls
+git status
+git pull
+git status
+git add -A
+git commit -m "controller for live fixed by removing extra sql code"
+git push
+git pull
+git status
+git add -A
+git commit -m "minor changes"
+git push
+git pull
+git status
+git add -A
+git commit -m "blueprint changed"
+git push
+git status
+git add -A
+git commit -m "mostly fixed, don't know what up wrong hi_yo #GoddammitAniket!!"
+git push
+git pull
+git status
+cd ..
+s
+ls
+cd proj1
+ls
+cd admin/
+ls
+git pull
+ls
+cd ..
+ls
+cd ..
+ls
+git clone git@github.com:EECS485-Fall2015/pa4_70czol.git
+cd pa4_70czol/
+ls
+git pull
+deactivate 
+ls
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt 
+ls
+git status
+open .gitignore
+git status
+git add -A
+git commit -m "updated pa3 to pa4, but stuck on blueprint for search.py rn"
+git push
+git push
+git status
+git add -A
+git commit -m "search html page ready"
+git push
+git status
+git add -A
+git commit -m "login restored, not sure what happened
+"
+git push
+git status
+git add -A
+git commit -m "search.py started"
+git push
+git status
+git add -A
+git commit -m "working on search py and html, adding if statement for when searched"
+git push
+git status
+git add -A
+git commit -m "search.py now should connect to backend"
+git push
+ls
+cd pa4_CPP/
+ls
+make
+cd ..
+make
+cd pa4_CPP/
+ls
+git pull
+ls
+git pull
+mskr
+make
+make
+gcc -V
+g++ -V
+g++ -v
+gcc -v
+g++ -v
+klang -v
+clang -v
+gcc
+make
+xcode-select --install 
+xcode-select --Software Update --install 
+make
+xcode-select --install 
+xcode-select --install 
+make
+which gcc
+which gcc-4.9
+which g++
+make
+git status
+git pull
+ls
+make
+git pull
+s
+deactivate 
+ls
+git pull
+git diff
+git stash
+git pull
+cd ..
+ls
+cd ..
+ls
+git clone git@github.com:EECS485-Fall2015/pa5_70czol.git
+ls
+gcc -v
+ cd /usr/bin
+  rm cc gcc c++ g++
+  rm cc gcc c++ g++\
+  rm cc gcc c++ g++\
+  rm cc gcc c++ g++
+  rm cc gcc c++ g++
+ln -s /usr/local/bin/gcc-4.8 cc
+sudo ln -s /usr/local/bin/gcc-4.8 cc
+sudo ln -s /usr/local/bin/gcc-5.2 cc
+sudo ln -s /usr/local/bin/gcc-5.2.0 cc
+sudo ln -s /usr/local/bin/gcc-5 cc
+gcc -v
+gcc -v
+gcc -v
+gcc -v
+gcc -v
+gcc -v
+gcc-5 -v
+gcc -v
+make
+gcc -v
+gcc -v
+ls
+make
+g++ -v

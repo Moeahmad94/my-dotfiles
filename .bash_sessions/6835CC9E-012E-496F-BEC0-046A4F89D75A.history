@@ -1,0 +1,501 @@
+make real_clean
+ls
+make p1Lexe
+make real_clean
+make
+./p1Lexe 
+make real_clean
+make record_test
+./a.out
+./a.out
+make record_test
+./a.out
+make record_test
+./a.out
+make record_test
+make record_test
+./a.out
+make record_test
+./a.out
+git status
+git add -A
+git commit -m "gonna test collection now"
+git push
+ls
+git status
+git commit -m "tested collection. Need to fix delete collection so it doesn't do find twice
+"
+git push
+make collection_test
+./a.ot
+make collection_test
+ls
+ls
+make collection_test
+./a.out
+git add -A
+git commit -m "makefile now for collection_test"
+git push
+git status
+git add -A
+make
+git status
+make real_clean
+git add -A
+git commit -m "testing with orig collection file"
+git push
+git status
+git status
+git add -A
+make
+make real_clean
+ls
+git status
+git add _A
+git add -A
+git commit -m "starting main module now"
+git push
+make
+ls
+make real_clean
+make container_test
+make Container_test
+make collection_test
+./a.out
+make real_clean
+rm a.out
+ls
+git status
+git add -A
+git commit -m "OC should work now"
+git push
+git status
+make
+make collection_test
+./a.out
+make real_clean
+rm a.out
+git status
+git add -A
+git commit -m "fixed some stuff in collection "
+git push
+git status
+git add -A
+git commit -m "optimized collection remove"
+git push
+git status
+make
+make collection_test
+./a.out
+rm a.out
+make real_clean
+ls
+git status
+git add -A
+git commit -m "fixed g_string_memory tracker from collection"
+git push
+git status
+git add -A
+git commit -m "still not sure what's wrong with record and/or collection
+:
+"
+git push
+make
+make collection_test
+./a.out
+make collection_test
+./a.out
+make collection_test
+./a.out
+./a.out
+rm a.out
+make collection_test
+./a.out
+gcc -std=c99 Ordered_container_list.c Collection_demo2.c Utility.c Record.c p1_globals.c Collection.c
+./a.out
+valgrind ./a.out
+gdb ./a.out
+gcc -std=c99 Ordered_container_list.c Collection_demo2.c Utility.c Record.c p1_globals.c Collection.c
+./a.out
+valgrind ./a.out
+gdb ./a.out
+module load gdb
+make collection_test
+./a.out
+./a.out
+gdb ./a.out
+ls
+make collection_test
+./a.out
+make
+make real_clean
+rm a.out
+git status
+git commit -m "fixed load and save collection. should work now hopefully"
+git push
+git status
+git add -A
+git commit -m "fixed load and save collection. should work now hopefully"
+git push
+make collection_test
+./a.out
+gdb ./a.out
+git status
+git add -A
+git add -A
+git commit -m "defined ndebug to remove asserts"
+git push
+make collection_test
+./a.out
+make collection_test
+./a.out
+make
+make real_clean
+git status
+git add -A
+git commit -m "starting work on p1_main driver, though still apparently have problems with record and/or collection"
+git push
+make collection_test
+./a.out
+git status
+git add -A
+git commit -m "turned off asserts. Having freed mem point to null. And not sure what's wrong with collection and/or record"
+git push
+make
+./ p1Lexe 
+./p1Lexe 
+git status
+make real_clean
+git status
+git add -A
+git commit -m "working on p1_main"
+git push
+make
+./p1Lexe 
+make
+./p1Lexe 
+./p1Lexe 
+make real_clean
+make
+./p1Lexe 
+make
+./p1Lexe 
+make real_clean
+git status
+git commit -m "hopefully records and collections work now and OC still works lol. More than halfway done with p1_main"
+git push
+git status
+git add -A
+git commit -m "hopefully records and collections work now and OC still works lol. More than halfway done with p1_main"
+git push
+make
+./p1Lexe
+make real_clean
+git status
+git commit -m "trying to remove segfault"
+git push
+git status
+git add -A
+git commit -m "trying to remove segfault"
+git push
+git status
+git add -A
+git commit -m "mostly done with p1_main. working on deletes now"
+git push
+git status
+git add -A
+git commit -m "got clear library working, now have rest of clears left for this but can use same format yay lol"
+git push
+ls
+make
+\
+make
+./p1Lexe 
+./p1Lexe 
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+./p1Lexe 
+./p1Lexe 
+./p1Lexe 
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+./p1Lexe 
+make
+./p1Lexe 
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+make
+./p1Lexe 
+./p1Lexe 
+git status
+make real_clean
+git status
+git add -A
+git commit -m "p1_main seems to be working"
+git push
+make
+./p1Lexe 
+make
+./p
+./p1Lexe 
+git status
+git add -A
+git commit -m "fixed rating check. Still have segfaults with components though"
+git push
+make
+./p1Lexe 
+./p1Lexe 
+./p1Lexe 
+make
+./p1Lexe
+./p
+./p1Lexe 
+make real_clean'
+;
+make real_clean
+ls
+git status
+git add -A
+git commit -m "started work on array list"
+git push
+git status
+git add -A
+git commit -m "utility fixed"
+git push
+make OC_array_test
+make OC_array_test
+make OC_array_test
+make OC_array_test
+make OC_array_test
+./a.out
+make
+make real_clean
+ls
+git status
+git add -A
+git commit -m "working on array now"
+git push
+make OC_array_test
+git status
+git add -A
+git commit -m "have binary search, swap, move item up and down container, and insert working for array"
+git push
+ssh moeahmad@login.engin.umich.edu
+make
+git status
+make
+./p1Lexe 
+./p1Aexe 
+./p1Aexe 
+./p1Aexe 
+make
+./p1Aexe 
+./p1Aexe 
+./p1Aexe 
+./p1Aexe 
+git status
+make real_clean
+git status
+git add -A
+git commit -m "done, now need to debug"
+git push
+make
+./p1Aexe 
+./p1Aexe < normal_in.txt
+./p1Aexe < normal_in.txt > mynAout.txt
+diff mynAout.txt normalA_out.txt 
+./p1Aexe < errors.txt > myeAout.txt
+./p1Aexe < errors_in.txt > myeAout.txt
+diff errors_out.txt myeAout.txt 
+./p1Aexe < typeahead_in.txt > mytAout.txt
+diff typeahead_out.txt mytAout.txt 
+./p1Lexe < normal_in.txt > mynLout.txt
+diff normalL_out.txt mynLout.txt
+./p1Lexe < errors_in.txt > myeLout.txt
+diff errors_out.txt myeLout.txt 
+./p1Lexe < typeahead_in.txt > mytLout.txt
+diff typeahead_out.txt mytLout.txt 
+qq
+git status
+make real_clean
+make
+./p1Aexe < normal_in.txt > mynAout.txt
+diff mynAout.txt normalA_out.txt 
+make real_clean
+git status
+git add -A
+git commit -m "changed OC_get_data_ptr location in load collection. Also tested array, seems to be working with samples"
+git push
+ssh moeahmad@login.engin.umich.edu
+ls
+make
+./p1Lexe < normal_in.txt 
+diff savefile1.txt orig_savefile1.txt 
+make
+./p1Lexe < normal_in.txt 
+diff savefile1.txt orig_savefile1.txt 
+./p1Lexe < normal_in.txt . mynLout.txt 
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+make
+./p1Lexe 
+make
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+./p1Aexe < normal_in.txt > mynAout.txt 
+diff normalA_out.txt mynAout.txt 
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+./p1Aexe < normal_in.txt > mynAout.txt 
+diff normalA_out.txt mynAout.txt 
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+./p1Aexe < normal_in.txt > mynAout.txt 
+diff normalA_out.txt mynAout.txt 
+make
+./p1Lexe < normal_in.txt > mynLout.txt 
+diff normalL_out.txt mynLout.txt 
+./p1Aexe < normal_in.txt > mynAout.txt 
+diff normalA_out.txt mynAout.txt 
+make real_clean
+git status
+git add -A
+git commit -m "fixed print and load record. Improved code quality a bit. Done"
+git push
+git status
+make
+./p1Aexe < normal_in.txt > mynAout.txt 
+diff normalA_out.txt mynAout.txt 
+make real_clean
+git statu
+git status
+ssh moeahmad@login.engin.umich.edu
+who is www.umich.edu
+whois www.umich.edu
+who umich.edu
+who www.umich.edu
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd 381
+ls
+git clone git@github.com:Moeahmad94/381proj2.git
+cd ..
+ls
+cd 381/
+cd 381proj
+cd 381proj1
+ls
+cd 381proj1
+cat .gitignore
+cd ..
+ls
+cd ..
+ls
+cd 381proj2
+ls
+ls
+open .gitignore
+git status
+open .gitignore
+git status
+git add -A
+git commit
+git status
+git commit --append
+git commit -append
+git commit --apend
+git commit --amend
+git push
+ls
+make
+make String_demo3
+make String_demo3
+make String_demo3
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+ls
+./a.out
+rm String_demo1.o
+rm String_demo1.o
+make s_demo_1
+ls
+./a.out
+rm String_demo1.o
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+make s_demo_1
+./a.out
+make s_demo_1
+make s_demo_1
+./a.out
+git status
+git add -A
+git commit -m "trying to get xcode to run"
+git push
+git status
+ssh moeahmad@login.engin.umich.edu
+ssh moeahmad@login.engin.umich.edu
+ssh moeahmad@login.engin.umich.edu

@@ -1,0 +1,521 @@
+ls
+cd hadoop
+lks
+ls
+cd mysrc/
+ls
+git status
+make clean
+git status
+git add -A
+git status
+open ../../.gitignore
+git status
+git add -A
+git commit -m "not doing job1 anymore, pushing old stuff for it in Job1Moe"
+git push
+git pull
+git pull
+git pull
+git pull
+make clean
+make job5
+./job5
+./job5.sh 
+make clean
+make job4
+./job4.sh 
+make job1
+make job2
+make job3
+./job1
+make job1
+./job1.sh 
+./job2.sh 
+./job3.sh 
+./job4.sh 
+make job4
+./job4
+./job4.sh 
+make job4
+./job4.sh 
+make job4
+./job4.sh 
+cat job4out/*
+make job5
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+ls
+git pull
+git status
+git add -A
+git commit -m "job 5 reduce"
+git pull
+git status
+ls
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+make job5
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+cat job5out/*
+./job5.sh 
+make job5
+./job5.sh 
+git status
+git add -A
+git commit -m "job5 done"
+git push
+git pull
+pwd
+cd ../../
+pwd
+git pull
+./eecs485pa6pr.sh 
+ls
+git pull
+./eecs485pa6pr.sh 
+git pull
+ls
+make job5
+ls
+cd hadoop
+ls
+cd mysrc/
+ls
+make job5
+./job5.sh 
+git pull
+git pull
+git pull
+git pull
+ls
+cd ..
+ls
+cd ..
+ls
+cd pa4_CPP/
+ls
+ls
+make
+ls
+make
+make
+make
+make
+make
+ls
+git status
+git add -A
+git commit -m "trying to compile indexserver"
+git pull
+make
+make
+make
+make
+make
+make
+cd ..
+./server.sh 
+./eecs485pa6inv.sh 
+pwd
+ls
+cd pa4_CPP/
+ls
+git pull
+git status
+git diff
+git add -A
+git commit -m "my stuff"
+git pull
+ls
+make
+cd ..
+ls
+make
+cd pa4_CPP/
+ls
+make
+cd ..
+ls
+./eecs485pa6inv.sh 
+ls
+ls
+cd hadoop
+ls
+cd mysrc/
+ls
+rm job1Moe.sh 
+ls
+rm job1out
+rm -rf job1out
+rm -rf job2out job3out
+rm -rf job4out job5out
+ls
+./job1.sh 
+./job2.sh 
+ls
+rm -rf numArticles/
+./job2.sh 
+ls
+./job3.sh 
+ls
+rm job*out
+rm -rf job*out
+ls
+./job1.sh 
+./job2.sh 
+ls
+rm -rf numArticles/
+./job2.sh 
+./job3.sh 
+rm -rf job*out numArticles/
+ls
+./job1.sh 
+./job1
+./job2.sh 
+./job3.sh 
+rm -rf job*out numArticles/
+ls
+cd ..
+ls
+cd ..
+ls
+cd pa4_CPP/
+ls
+git status
+git add -A
+git commit -m "removed moe.sh job shits"
+git push
+git pull
+ls
+cd ..
+ls
+./eecs485pa6inv.sh 
+ls
+./eecs485pa6inv.sh 
+git status
+git pull
+git  pull
+git pull
+git pull
+ls
+./eecs485pa6inv.sh 
+git pull
+git status
+git add -A
+git commit -m "py scripts for sql loading"
+git pull
+git status
+git pull
+git add -A
+git commit -m "merge"
+git pull
+git push
+git status
+ls
+cd sql
+ls
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+git status
+git add -A
+git pull
+git commit -m "cat fireball"
+git push
+ls
+git pull
+ls
+ls
+python category.sql 
+git pull
+python category.py
+python getCategory.py
+ls
+python getcategory.py 
+python geturls.py 
+python getSummary.py 
+python getSummary.py 
+git status
+git add -A
+git commit -m "summs"
+git push
+ls
+cd ..
+ls
+./eecs485pa6pr.sh 
+./eecs485pa6inv.sh 
+ls
+./server.sh 
+git status
+git pull
+ls
+git checkout ade8b3a3b4a4742a02673af9b6db961f440716f6
+ls
+./eecs485pa6pr.sh 
+./eecs485pa6inv.sh 
+ls
+ls
+git status
+git pull
+git head --reset
+git head reset --hard
+git reset
+git status
+git reset head
+git status
+git reset head --hard
+git status
+git checkout 282370a283c0dca2820ca8439666072ba8a58024
+git status
+git pull --force
+git status
+git reset --hard
+git status
+git pull
+git pull 282370a283c0dca2820ca8439666072ba8a58024
+git reset --hard
+git reset --hard --force
+git status
+git add README.md
+git status
+git commit -m "readme:
+"
+git pull
+git push
+git reset --hard 282370a283c0dca2820ca8439666072ba8a58024
+git status
+git - clean
+git -clean
+git clean -f
+git status
+git reset --head -f
+git reset -f
+git reset --soft
+git status
+git checkout head
+git status
+git status
+git add -A
+git commit -m "readme put"
+git pull
+git pull origin 
+git pull origin master
+git status
+git diff
+git status
+git push
+git push origin master
+git pull
+git pull origin master
+git push origin master
+git reset --hard
+git status
+git checkout head
+git checkout origin master
+git pull
+git pull origin master
+git reset --head
+git reset --hard # Link to Homepage:
+http://eecs485-08.eecs.umich.edu:5664/70czol/pa6/search
+http://eecs485-08.eecs.umich.edu:5764/70czol/pa6/search
+# Members:
+Aniket Kulkarni
+Pat Coyle
+Moe Ahmad
+# Details: 
+Website port numbers 5664 & 5764
+# Path of inverted index
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/invoutput/
+# Path of pagerank score
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/proutput/
+# Contributions:
+* Pat (coyelph): 
+* Aniket (aniketk): 
+* Moe (moeahmad):
+# To Run: 
+1) In root directory of the repo run ./eecs485pa6inv.sh and ./eecs485pa6pr.sh
+2) To see results of the scripts run cat invoutput/* and cat proutput/*
+3) To run the server: ./server.sh
+* gunicorn -b eecs485-08.eecs.umich.edu:5664 -b eecs485-08.eecs.umich.edu:5764 start:app
+# To Run Flask Server:
+python start.py
+git reset --hard # Link to Homepage:
+http://eecs485-08.eecs.umich.edu:5664/70czol/pa6/search
+http://eecs485-08.eecs.umich.edu:5764/70czol/pa6/search
+# Members:
+Aniket Kulkarni
+Pat Coyle
+Moe Ahmad
+# Details: 
+Website port numbers 5664 & 5764
+# Path of inverted index
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/invoutput/
+# Path of pagerank score
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/proutput/
+# Contributions:
+* Pat (coyelph): 
+* Aniket (aniketk): 
+* Moe (moeahmad):
+# To Run: 
+1) In root directory of the repo run ./eecs485pa6inv.sh and ./eecs485pa6pr.sh
+2) To see results of the scripts run cat invoutput/* and cat proutput/*
+3) To run the server: ./server.sh
+* gunicorn -b eecs485-08.eecs.umich.edu:5664 -b eecs485-08.eecs.umich.edu:5764 start:app
+# To Run Flask Server:
+python start.py
+git reset --hard
+git status
+git reset --hard f965ddba97d41ce310bda988a1c44f1fdb98a399# Link to Homepage:
+http://eecs485-08.eecs.umich.edu:5664/70czol/pa6/search
+http://eecs485-08.eecs.umich.edu:5764/70czol/pa6/search
+# Members:
+Aniket Kulkarni
+Pat Coyle
+Moe Ahmad
+# Details: 
+Website port numbers 5664 & 5764
+# Path of inverted index
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/invoutput/
+# Path of pagerank score
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/proutput/
+# Contributions:
+* Pat (coyelph): 
+* Aniket (aniketk): 
+* Moe (moeahmad):
+# To Run: 
+1) In root directory of the repo run ./eecs485pa6inv.sh and ./eecs485pa6pr.sh
+2) To see results of the scripts run cat invoutput/* and cat proutput/*
+3) To run the server: ./server.sh
+* gunicorn -b eecs485-08.eecs.umich.edu:5664 -b eecs485-08.eecs.umich.edu:5764 start:app
+# To Run Flask Server:
+python start.py
+git reset --hard f965ddba97d41ce310bda988a1c44f1fdb98a399
+git status
+git reset -f
+git reset force
+git reset --force
+git reset --head
+git reset --hard HEAD
+git status
+git push
+git status
+git add -A
+git commit -m "readme"
+git push
+git push origin master
+git checkout master
+git pull 
+git status
+git add -A
+git commit -m "Readme"
+git push
+git status
+git add -A
+git commit -m "readme again"
+git push
+git status
+gcc -v
+ls
+ls
+cd pa6_70czol/
+ls
+git status
+cd ..
+ls
+cd pa6_70czol/
+ls
+git status
+git push
+ls
+cd hadoop
+ls
+cd mysrc/
+ls
+rm job*out
+rm -rf job*out numArticles/
+./job1.sh 
+./job2.sh 
+./job3.sh 
+./job4.sh 
+git pull
+rm -rf numArticles/ job*out
+./job1.sh 
+./job2.sh 
+./job3.sh 
+./job4.sh 
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd sql
+ls
+mysql -u group64
+mysql -u group64 group64
+mysql -u group64 group64 -p
+ls
+mysql -u group64 group64 -p
+ls
+mysql -u group64 group64 -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+mysql -u group64 -p
+mysql -u root -p
+ls
+mysql -u group64 -p
+ls
+mysql -u group64 -p
+sudo apt-get install texlive-full
+brew apt-get
+sudo brew install texlive-full
+ brew install texlive-full
+brew update

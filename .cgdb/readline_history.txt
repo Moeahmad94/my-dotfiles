@@ -1,0 +1,11 @@
+b main
+ruin
+run
+disas
+list
+ni
+file test
+y
+list
+quit
+y

@@ -1,0 +1,1001 @@
+cd ..
+s
+ls
+cd proj1
+ls
+cd admin/
+ls
+git pull
+ls
+cd ..
+ls
+cd ..
+ls
+git clone git@github.com:EECS485-Fall2015/pa4_70czol.git
+cd pa4_70czol/
+ls
+git pull
+deactivate 
+ls
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt 
+ls
+git status
+open .gitignore
+git status
+git add -A
+git commit -m "updated pa3 to pa4, but stuck on blueprint for search.py rn"
+git push
+git push
+git status
+git add -A
+git commit -m "search html page ready"
+git push
+git status
+git add -A
+git commit -m "login restored, not sure what happened
+"
+git push
+git status
+git add -A
+git commit -m "search.py started"
+git push
+git status
+git add -A
+git commit -m "working on search py and html, adding if statement for when searched"
+git push
+git status
+git add -A
+git commit -m "search.py now should connect to backend"
+git push
+ls
+cd pa4_CPP/
+ls
+make
+cd ..
+make
+cd pa4_CPP/
+ls
+git pull
+ls
+git pull
+mskr
+make
+make
+gcc -V
+g++ -V
+g++ -v
+gcc -v
+g++ -v
+klang -v
+clang -v
+gcc
+make
+xcode-select --install 
+xcode-select --Software Update --install 
+make
+xcode-select --install 
+xcode-select --install 
+make
+which gcc
+which gcc-4.9
+which g++
+make
+git status
+git pull
+ls
+make
+git pull
+s
+deactivate 
+ls
+git pull
+git diff
+git stash
+git pull
+cd ..
+ls
+cd ..
+ls
+git clone git@github.com:EECS485-Fall2015/pa5_70czol.git
+ls
+gcc -v
+ cd /usr/bin
+  rm cc gcc c++ g++
+  rm cc gcc c++ g++\
+  rm cc gcc c++ g++\
+  rm cc gcc c++ g++
+  rm cc gcc c++ g++
+ln -s /usr/local/bin/gcc-4.8 cc
+sudo ln -s /usr/local/bin/gcc-4.8 cc
+sudo ln -s /usr/local/bin/gcc-5.2 cc
+sudo ln -s /usr/local/bin/gcc-5.2.0 cc
+sudo ln -s /usr/local/bin/gcc-5 cc
+gcc -v
+gcc -v
+gcc -v
+gcc -v
+gcc -v
+gcc -v
+gcc-5 -v
+gcc -v
+make
+gcc -v
+gcc -v
+ls
+make
+g++ -v
+gcc -v
+make
+ld
+ls
+cd hits
+mkae
+make
+gcc -v
+ls
+cd hits
+make
+ls
+make
+make
+git status
+make
+ls
+clean eecs485pa5h 
+make
+git pull
+ls
+gcc -v
+g++ -v
+cc -v
+c++ -v
+make
+ls
+rm eecs485pa5h 
+ls
+make
+gcc -v
+open Makefile
+make
+g++ hits_main.o hits.o -o eecs485pa5h
+ls
+rm eecs485pa5h 
+ls
+gcc -v
+ls
+make
+gcc -v
+ls
+gcc -v
+make
+gcc -v
+make
+ls
+cd hits
+make
+open ~/.profile
+touch ~/.profile
+open ~/.profile
+rm ~/.profile
+ls -a /Users/mohammadahmad/Downloads/matlab_R2015b_maci64/install ; exit;
+ls
+gcc -v
+make
+ls
+gcc -v
+make
+cd hits
+make
+ls
+gcc -v
+make
+ls
+cd hits
+make
+GCC -v
+gCC -v
+gcc -v
+ls
+gcc -v]
+gcc -v
+cd hits
+make
+ls
+gcc -v
+cd hits
+make
+ls
+brew link gcc-5
+ln -s gcc-5 gcc
+ln -s g++-5 g++
+brew info gcc
+gcc -v
+g++ -v
+brew info gcc
+brew info gcc-5
+brew info gcc5
+brew info gcc
+gcc -v
+ls
+cd hits
+make
+cc -v
+CC -v
+open ~/.bashenv
+ls -a ~/
+touch ~/.bashenv
+open  ~/.bashenv
+rm  ~/.bashenv
+ls
+cd ~/usr/bin
+cd ~
+ls
+cd usr
+ls
+cd /usr/bin
+ls
+which gcc
+which gcc5
+which gcc-5
+cd gcc
+cd ..
+ls
+cd local
+ls
+cd bin
+ls
+ln -s gcc-5 gcc
+ln -s g++-5 g++
+brew info gcc
+brew link gcc-5
+gcc -v
+ls
+ls -a ~/
+open ~/.bashrc
+gcc -v
+ls
+cd /usr/local/bin
+ls
+rn gcc
+rm gcc
+ls
+rm g++
+ln -s gcc-5 gcc
+ln -s g++-5 g++
+gcc -v
+g++ -v
+ls
+cd ~
+ls
+cd Desktop/
+ls
+touch test.cpp
+open test.cpp
+g++ test.cpp
+g++ test.cpp
+ls
+./a.out
+rm a.out
+ls
+g++ test.cpp
+./a.out
+ls
+rm a.out
+g++11 test.cpp
+g++ -v
+c++ -v
+g++ -std=c++0x test.cpp
+./a.out
+g++ -std=c++11 test.cpp
+./a.out
+rm a.out
+g++ -std=c++11 test.cpp
+rm a.out
+ls
+g++ -std=c++11 test.cpp
+./a.out
+rm a.out
+open test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++0x test.cpp
+g++ test.cpp
+g++ test.cpp
+./a.out
+rm a.out
+g++ test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ test.cpp
+g++ test.cpp
+rm a.out
+g++ test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+./a.out
+rm a.out
+rm a.out
+g++ -std=c++11 test.cpp
+./a.out
+./a.out
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+./a.out
+./a.out
+g++ -std=c++11 test.cpp
+./a.out
+./a.out
+g++ -std=c++11 test.cpp
+./a.out
+g++ -std=c++11 test.cpp
+./a.out
+./a.out
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ -std=c++11 test.cpp
+g++ test.cpp
+ls
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+ls
+mkdir testStuff
+cd testStuff/
+touch test.cpp
+open test.cpp
+ls
+g++ test.cpp
+ls
+g++ test.cpp -O3
+g++ test.cpp -g
+g++ test.cpp -O1
+./a.out
+g++ test.cpp -O1
+./a.out
+ls
+rm a.out
+g++ test.cpp
+g++ test.cpp
+./a.out
+g++ test.cpp
+rm a.out
+ls
+g++ a.out
+g++ test.cpp
+g++ test.cpp -wall
+g++ test.cpp -Wall
+g++ -Wall -Werror -Wextra test.cpp
+g++ -Wall -Werror -Wextra -pedantic test.cpp
+g++ -Wall -Werror -Wextra -pedantic test.cpp
+./a.out
+g++ -Wall -Werror -Wextra -pedantic test.cpp
+G++ test.cpp
+G++ -v
+g++ -v
+ls
+rm a.out
+g++ test.cpp
+g++ test.cpp
+ls
+g++ test.cpp
+ls
+g++ test.cpp -O1
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ -v
+g++ -v
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+ls
+a.out && echo $?
+./a.out && echo $?
+./a.out & echo $?
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+cat /var/folders/tf/glgr7std6315x2s0x81ykv5c0000gn/T//ccRVOPhI.s
+g++ test.cpp --disable-asm
+g++ -v
+g++ test.cpp --disable-asm
+g++ -g test.cpp
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+brew doctor
+g++ test.cpp
+./a.out
+g++ test.cpp
+g++ test.cpp
+rm a.out
+rm a.out
+g++ test.cpp
+./a.out
+g++ test.cpp
+./a.out
+rm a.out
+g++ test.cpp
+g++ test.cpp
+./a.out
+./a.out
+g++ test.cpp
+g++ test.cpp
+./a.out
+./a.out
+g++ test.cpp
+g++ test.cpp
+g++ test.cpp
+sudo mv /opt/local ~/macports
+ls
+g++ test.cpp
+g++ test.cpp
+rm a.out
+g++ test.cpp
+./a.out
+ls /opt/local
+ls ~/macports
+ls -a ~/macports
+ls /opt
+/Users/mohammadahmad/Documents/xcode/485/pa6_70czol/hadoop/mysrc/job4out/part-r-00000 ; exit;
+make
+ls
+cd hits
+ls
+open ~./bash_profile
+open ~/.bash_profile
+gcc -v
+ls
+make
+ls
+rm eecs485pa5h 
+ls
+ls
+pwd
+cd ..
+ls
+cd ..
+ls
+cd pa6_70czol/
+ls
+ls
+cd ..
+s
+ls
+cd pa6_70czol/
+ls
+virtualenv venv
+source venv/bin/activate
+ls
+python start.py 
+pip -r install requirements.txt 
+pip install -r requirements.txt 
+python start.py 
+ls
+pip freeze
+python start.py 
+git pull
+open start.py 
+deactivate 
+make job2
+make invindex
+make job1
+make clean
+make clean
+make clean
+make clean2
+make job1
+ls
+./job1.sh 
+chmod job1.sh
+chmod +x job1.sh
+./job1.sh 
+make clean
+make job1
+make job1
+make job1
+make  job2
+./job2.sh 
+make job1
+./job1
+./job1.sh 
+make clean
+make job1
+./job1.sh 
+make clean
+make clean2
+git status
+open .gitignore
+ls
+cd ..
+ls
+ls
+open .gitignore
+cd ..
+ls
+open .gitignore
+git status
+git status
+ls
+cd hadoop
+lks
+ls
+cd mysrc/
+ls
+git status
+make clean
+git status
+git add -A
+git status
+open ../../.gitignore
+git status
+git add -A
+git commit -m "not doing job1 anymore, pushing old stuff for it in Job1Moe"
+git push
+git pull
+git pull
+git pull
+git pull
+make clean
+make job5
+./job5
+./job5.sh 
+make clean
+make job4
+./job4.sh 
+make job1
+make job2
+make job3
+./job1
+make job1
+./job1.sh 
+./job2.sh 
+./job3.sh 
+./job4.sh 
+make job4
+./job4
+./job4.sh 
+make job4
+./job4.sh 
+make job4
+./job4.sh 
+cat job4out/*
+make job5
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+ls
+git pull
+git status
+git add -A
+git commit -m "job 5 reduce"
+git pull
+git status
+ls
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+make job5
+make job5
+make job5
+./job5.sh 
+make job5
+./job5.sh 
+cat job5out/*
+./job5.sh 
+make job5
+./job5.sh 
+git status
+git add -A
+git commit -m "job5 done"
+git push
+git pull
+pwd
+cd ../../
+pwd
+git pull
+./eecs485pa6pr.sh 
+ls
+git pull
+./eecs485pa6pr.sh 
+git pull
+ls
+make job5
+ls
+cd hadoop
+ls
+cd mysrc/
+ls
+make job5
+./job5.sh 
+git pull
+git pull
+git pull
+git pull
+ls
+cd ..
+ls
+cd ..
+ls
+cd pa4_CPP/
+ls
+ls
+make
+ls
+make
+make
+make
+make
+make
+ls
+git status
+git add -A
+git commit -m "trying to compile indexserver"
+git pull
+make
+make
+make
+make
+make
+make
+cd ..
+./server.sh 
+./eecs485pa6inv.sh 
+pwd
+ls
+cd pa4_CPP/
+ls
+git pull
+git status
+git diff
+git add -A
+git commit -m "my stuff"
+git pull
+ls
+make
+cd ..
+ls
+make
+cd pa4_CPP/
+ls
+make
+cd ..
+ls
+./eecs485pa6inv.sh 
+ls
+ls
+cd hadoop
+ls
+cd mysrc/
+ls
+rm job1Moe.sh 
+ls
+rm job1out
+rm -rf job1out
+rm -rf job2out job3out
+rm -rf job4out job5out
+ls
+./job1.sh 
+./job2.sh 
+ls
+rm -rf numArticles/
+./job2.sh 
+ls
+./job3.sh 
+ls
+rm job*out
+rm -rf job*out
+ls
+./job1.sh 
+./job2.sh 
+ls
+rm -rf numArticles/
+./job2.sh 
+./job3.sh 
+rm -rf job*out numArticles/
+ls
+./job1.sh 
+./job1
+./job2.sh 
+./job3.sh 
+rm -rf job*out numArticles/
+ls
+cd ..
+ls
+cd ..
+ls
+cd pa4_CPP/
+ls
+git status
+git add -A
+git commit -m "removed moe.sh job shits"
+git push
+git pull
+ls
+cd ..
+ls
+./eecs485pa6inv.sh 
+ls
+./eecs485pa6inv.sh 
+git status
+git pull
+git  pull
+git pull
+git pull
+ls
+./eecs485pa6inv.sh 
+git pull
+git status
+git add -A
+git commit -m "py scripts for sql loading"
+git pull
+git status
+git pull
+git add -A
+git commit -m "merge"
+git pull
+git push
+git status
+ls
+cd sql
+ls
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+python getSummary.py 
+git status
+git add -A
+git pull
+git commit -m "cat fireball"
+git push
+ls
+git pull
+ls
+ls
+python category.sql 
+git pull
+python category.py
+python getCategory.py
+ls
+python getcategory.py 
+python geturls.py 
+python getSummary.py 
+python getSummary.py 
+git status
+git add -A
+git commit -m "summs"
+git push
+ls
+cd ..
+ls
+./eecs485pa6pr.sh 
+./eecs485pa6inv.sh 
+ls
+./server.sh 
+git status
+git pull
+ls
+git checkout ade8b3a3b4a4742a02673af9b6db961f440716f6
+ls
+./eecs485pa6pr.sh 
+./eecs485pa6inv.sh 
+ls
+ls
+git status
+git pull
+git head --reset
+git head reset --hard
+git reset
+git status
+git reset head
+git status
+git reset head --hard
+git status
+git checkout 282370a283c0dca2820ca8439666072ba8a58024
+git status
+git pull --force
+git status
+git reset --hard
+git status
+git pull
+git pull 282370a283c0dca2820ca8439666072ba8a58024
+git reset --hard
+git reset --hard --force
+git status
+git add README.md
+git status
+git commit -m "readme:
+"
+git pull
+git push
+git reset --hard 282370a283c0dca2820ca8439666072ba8a58024
+git status
+git - clean
+git -clean
+git clean -f
+git status
+git reset --head -f
+git reset -f
+git reset --soft
+git status
+git checkout head
+git status
+git status
+git add -A
+git commit -m "readme put"
+git pull
+git pull origin 
+git pull origin master
+git status
+git diff
+git status
+git push
+git push origin master
+git pull
+git pull origin master
+git push origin master
+git reset --hard
+git status
+git checkout head
+git checkout origin master
+git pull
+git pull origin master
+git reset --head
+git reset --hard # Link to Homepage:
+http://eecs485-08.eecs.umich.edu:5664/70czol/pa6/search
+http://eecs485-08.eecs.umich.edu:5764/70czol/pa6/search
+# Members:
+Aniket Kulkarni
+Pat Coyle
+Moe Ahmad
+# Details: 
+Website port numbers 5664 & 5764
+# Path of inverted index
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/invoutput/
+# Path of pagerank score
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/proutput/
+# Contributions:
+* Pat (coyelph): 
+* Aniket (aniketk): 
+* Moe (moeahmad):
+# To Run: 
+1) In root directory of the repo run ./eecs485pa6inv.sh and ./eecs485pa6pr.sh
+2) To see results of the scripts run cat invoutput/* and cat proutput/*
+3) To run the server: ./server.sh
+* gunicorn -b eecs485-08.eecs.umich.edu:5664 -b eecs485-08.eecs.umich.edu:5764 start:app
+# To Run Flask Server:
+python start.py
+git reset --hard # Link to Homepage:
+http://eecs485-08.eecs.umich.edu:5664/70czol/pa6/search
+http://eecs485-08.eecs.umich.edu:5764/70czol/pa6/search
+# Members:
+Aniket Kulkarni
+Pat Coyle
+Moe Ahmad
+# Details: 
+Website port numbers 5664 & 5764
+# Path of inverted index
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/invoutput/
+# Path of pagerank score
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/proutput/
+# Contributions:
+* Pat (coyelph): 
+* Aniket (aniketk): 
+* Moe (moeahmad):
+# To Run: 
+1) In root directory of the repo run ./eecs485pa6inv.sh and ./eecs485pa6pr.sh
+2) To see results of the scripts run cat invoutput/* and cat proutput/*
+3) To run the server: ./server.sh
+* gunicorn -b eecs485-08.eecs.umich.edu:5664 -b eecs485-08.eecs.umich.edu:5764 start:app
+# To Run Flask Server:
+python start.py
+git reset --hard
+git status
+git reset --hard f965ddba97d41ce310bda988a1c44f1fdb98a399# Link to Homepage:
+http://eecs485-08.eecs.umich.edu:5664/70czol/pa6/search
+http://eecs485-08.eecs.umich.edu:5764/70czol/pa6/search
+# Members:
+Aniket Kulkarni
+Pat Coyle
+Moe Ahmad
+# Details: 
+Website port numbers 5664 & 5764
+# Path of inverted index
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/invoutput/
+# Path of pagerank score
+eecs485-08.eecs.umich.edu:/var/www/html/group64/pa6_70czol/proutput/
+# Contributions:
+* Pat (coyelph): 
+* Aniket (aniketk): 
+* Moe (moeahmad):
+# To Run: 
+1) In root directory of the repo run ./eecs485pa6inv.sh and ./eecs485pa6pr.sh
+2) To see results of the scripts run cat invoutput/* and cat proutput/*
+3) To run the server: ./server.sh
+* gunicorn -b eecs485-08.eecs.umich.edu:5664 -b eecs485-08.eecs.umich.edu:5764 start:app
+# To Run Flask Server:
+python start.py
+git reset --hard f965ddba97d41ce310bda988a1c44f1fdb98a399
+git status
+git reset -f
+git reset force
+git reset --force
+git reset --head
+git reset --hard HEAD
+git status
+git push
+git status
+git add -A
+git commit -m "readme"
+git push
+git push origin master
+git checkout master
+git pull 
+git status
+git add -A
+git commit -m "Readme"
+git push
+git status
+git add -A
+git commit -m "readme again"
+git push
+git status
