@@ -24,7 +24,8 @@ files=".CFUserTextEncoding
 .zsh-update
 .zsh_history
 .zshrc
-.zshrc.pre-oh-my-zsh"
+.zshrc.pre-oh-my-zsh
+ssh_config”
 # list of files/folders to symlink in homedir
 
 ##########
